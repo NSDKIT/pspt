@@ -1,0 +1,5 @@
+SYSTEM BASE:, 1000.00,,MVA
+SYSTEM CONDITION:,Z ,, NO-LOAD (X(BLANK) RX(W) RXY(Z)) or LOAD(L)
+LOAD CHARACTERISTIC:,  1,, Constant P(0)/Constant I(1)/Constant Z(2)
+GENERATOR REACTANCE VARIATION:,  1,,Consideration(1)/Not Consideration(0)
+ 
