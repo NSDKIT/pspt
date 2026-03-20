@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DocT xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Memo />
+  <If>t</If>
+  <Xlg>AL</Xlg>
+  <Xod>Z</Xod>
+  <Iv>0</Iv>
+  <Gmx>M</Gmx>
+  <Xt />
+  <Xxd>XDD</Xxd>
+  <Ir />
+  <Ic />
+  <Iwt>false</Iwt>
+  <Iz>false</Iz>
+  <Ib>false</Ib>
+  <Saturation>Saturated</Saturation>
+  <Il>1</Il>
+  <Ig>on</Ig>
+  <On />
+  <Gens />
+  <Nodes />
+</DocT>

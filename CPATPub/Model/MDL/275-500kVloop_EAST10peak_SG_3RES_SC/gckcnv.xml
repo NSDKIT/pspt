@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CheckData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Vg>1.0</Vg>
+  <Pg>0.001</Pg>
+  <Qg>0.0</Qg>
+  <Xs>0.2</Xs>
+  <Xs2>0.0001</Xs2>
+  <Pl>1.0</Pl>
+  <Cluster1>0</Cluster1>
+  <Cluster2>0</Cluster2>
+  <StepWidth>0.1</StepWidth>
+  <StepStart>1</StepStart>
+  <StepEnd>5</StepEnd>
+  <CaseName1 />
+  <BCaseName1>false</BCaseName1>
+  <LoadStart>1.0</LoadStart>
+  <SimuTime>5.0</SimuTime>
+  <CaseName2 />
+  <BCaseName2>false</BCaseName2>
+  <CaseName3 />
+  <BCaseName3>false</BCaseName3>
+  <Option>false</Option>
+</CheckData>

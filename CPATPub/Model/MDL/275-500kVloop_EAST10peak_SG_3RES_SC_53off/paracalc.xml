@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DocParas xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <List>
+    <DocPara>
+      <Test>false</Test>
+      <SMemo />
+      <Name>555</Name>
+      <CalcType>l</CalcType>
+      <L>ベースケース</L>
+      <Ys />
+      <Ts />
+      <Ss />
+      <Fs />
+      <Malfunctions>
+        <DocPara_Malfunction>
+          <Use>true</Use>
+          <SUse>対象</SUse>
+          <ListSequence>
+            <Sequence>
+              <Ktyp>G</Ktyp>
+              <Phase>GABC</Phase>
+              <Time>1.0</Time>
+              <Ichi>1</Ichi>
+              <Name />
+              <Sr>S3</Sr>
+              <Ipos />
+              <Ipsk>10</Ipsk>
+              <Ipskx>1</Ipskx>
+              <Data1>10.0</Data1>
+              <Data2 />
+              <Data3 />
+              <Data4 />
+              <Data5 />
+              <Data6 />
+              <Data6Num />
+            </Sequence>
+            <Sequence>
+              <Ktyp>O</Ktyp>
+              <Phase>GABC</Phase>
+              <Time>1.07</Time>
+              <Ichi>1</Ichi>
+              <Name />
+              <Sr>SR</Sr>
+              <Ipos />
+              <Ipsk>10</Ipsk>
+              <Ipskx>1</Ipskx>
+              <Data1 />
+              <Data2 />
+              <Data3 />
+              <Data4 />
+              <Data5 />
+              <Data6 />
+              <Data6Num />
+            </Sequence>
+            <Sequence>
+              <Ktyp>C</Ktyp>
+              <Phase>GABC</Phase>
+              <Time>1.2</Time>
+              <Ichi>1</Ichi>
+              <Name />
+              <Sr>SR</Sr>
+              <Ipos />
+              <Ipsk>10</Ipsk>
+              <Ipskx>1</Ipskx>
+              <Data1 />
+              <Data2 />
+              <Data3 />
+              <Data4 />
+              <Data5 />
+              <Data6 />
+              <Data6Num />
+            </Sequence>
+          </ListSequence>
+          <Parameter>data1</Parameter>
+          <Begin>1.0</Begin>
+          <End>10.0</End>
+          <Dif>1.0</Dif>
+        </DocPara_Malfunction>
+        <DocPara_Malfunction>
+          <Use>true</Use>
+          <SUse>対象</SUse>
+          <ListSequence>
+            <Sequence>
+              <Ktyp>G</Ktyp>
+              <Phase>GABC</Phase>
+              <Time>1.0</Time>
+              <Ichi>2</Ichi>
+              <Name />
+              <Sr>S3</Sr>
+              <Ipos />
+              <Ipsk>10</Ipsk>
+              <Ipskx>1</Ipskx>
+              <Data1>10.0</Data1>
+              <Data2 />
+              <Data3 />
+              <Data4 />
+              <Data5 />
+              <Data6 />
+              <Data6Num />
+            </Sequence>
+            <Sequence>
+              <Ktyp>O</Ktyp>
+              <Phase>GABC</Phase>
+              <Time>1.07</Time>
+              <Ichi>2</Ichi>
+              <Name />
+              <Sr>SR</Sr>
+              <Ipos />
+              <Ipsk>10</Ipsk>
+              <Ipskx>1</Ipskx>
+              <Data1 />
+              <Data2 />
+              <Data3 />
+              <Data4 />
+              <Data5 />
+              <Data6 />
+              <Data6Num />
+            </Sequence>
+            <Sequence>
+              <Ktyp>C</Ktyp>
+              <Phase>GABC</Phase>
+              <Time>1.2</Time>
+              <Ichi>2</Ichi>
+              <Name />
+              <Sr>SR</Sr>
+              <Ipos />
+              <Ipsk>10</Ipsk>
+              <Ipskx>1</Ipskx>
+              <Data1 />
+              <Data2 />
+              <Data3 />
+              <Data4 />
+              <Data5 />
+              <Data6 />
+              <Data6Num />
+            </Sequence>
+          </ListSequence>
+          <Parameter>data1</Parameter>
+          <Begin>1.0</Begin>
+          <End>10.0</End>
+          <Dif>1.0</Dif>
+        </DocPara_Malfunction>
+      </Malfunctions>
+      <Malfunctions_F />
+      <GraphDatas />
+      <Pg_g>false</Pg_g>
+      <Pg_ge>false</Pg_ge>
+      <Pg_gp>false</Pg_gp>
+      <Pg_ree>false</Pg_ree>
+      <Pg_rep>false</Pg_rep>
+      <Pg_gm>false</Pg_gm>
+      <PgType>pg</PgType>
+      <BLimitSetting>false</BLimitSetting>
+      <Facility>
+        <DocPara_Facility>
+          <Number>1</Number>
+          <Use>true</Use>
+          <ObjType>t</ObjType>
+          <Parameter>z1r</Parameter>
+          <ObjIndex>428</ObjIndex>
+          <ObjNum>56</ObjNum>
+          <Begin>0.0</Begin>
+          <End>10.0</End>
+          <Dif>0.1</Dif>
+        </DocPara_Facility>
+        <DocPara_Facility>
+          <Number>2</Number>
+          <Use>true</Use>
+          <ObjType>t</ObjType>
+          <Parameter>z1x</Parameter>
+          <ObjIndex>428</ObjIndex>
+          <ObjNum>56</ObjNum>
+          <Begin>0.0</Begin>
+          <End>10.0</End>
+          <Dif>0.1</Dif>
+        </DocPara_Facility>
+      </Facility>
+      <Systems />
+      <Vols />
+      <Controls />
+      <Supplydemands />
+      <Groups />
+    </DocPara>
+  </List>
+  <SelectName>555</SelectName>
+</DocParas>

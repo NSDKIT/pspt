@@ -1,0 +1,469 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DocY xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Memo />
+  <Iflg>None</Iflg>
+  <Ipsel>
+    <string />
+    <string />
+    <string />
+    <string />
+    <string />
+  </Ipsel>
+  <Ds>0.01</Ds>
+  <NItu>0</NItu>
+  <Default>true</Default>
+  <Ncmax>999</Ncmax>
+  <Dlt>0.0001</Dlt>
+  <C>Off</C>
+  <F>Normal</F>
+  <Header />
+  <ListSequence>
+    <Sequence>
+      <Ktyp>G</Ktyp>
+      <Phase>GA</Phase>
+      <Time>1.0</Time>
+      <Ichi>37</Ichi>
+      <Name />
+      <Sr>S</Sr>
+      <Ipos>50</Ipos>
+      <Ipsk>10</Ipsk>
+      <Ipskx>1</Ipskx>
+      <Data1 />
+      <Data2 />
+      <Data3 />
+      <Data4 />
+      <Data5 />
+      <Data6 />
+      <Data6Num />
+    </Sequence>
+    <Sequence>
+      <Ktyp>O</Ktyp>
+      <Phase>GA</Phase>
+      <Time>1.07</Time>
+      <Ichi>37</Ichi>
+      <Name />
+      <Sr>SR</Sr>
+      <Ipos />
+      <Ipsk>10</Ipsk>
+      <Ipskx>1</Ipskx>
+      <Data1 />
+      <Data2 />
+      <Data3 />
+      <Data4 />
+      <Data5 />
+      <Data6 />
+      <Data6Num />
+    </Sequence>
+    <Sequence>
+      <Ktyp>C</Ktyp>
+      <Phase>GA</Phase>
+      <Time>1.3</Time>
+      <Ichi>37</Ichi>
+      <Name />
+      <Sr>SR</Sr>
+      <Ipos />
+      <Ipsk>10</Ipsk>
+      <Ipskx>1</Ipskx>
+      <Data1 />
+      <Data2 />
+      <Data3 />
+      <Data4 />
+      <Data5 />
+      <Data6 />
+      <Data6Num />
+    </Sequence>
+  </ListSequence>
+  <Tmax>10.0</Tmax>
+  <Agsm>360.0</Agsm>
+  <Ngs1>4</Ngs1>
+  <Ngs2 />
+  <Ngs3 />
+  <Ngs4 />
+  <Ngs5 />
+  <Sgomax>0.002</Sgomax>
+  <IsFsb>false</IsFsb>
+  <Fsb2 />
+  <Fsb3 />
+  <Fsb4 />
+  <Fsb5 />
+  <DictDCexte />
+  <DictDCself />
+  <DictDCexte2 />
+  <DictDCself2 />
+  <ListDBlk />
+  <ListDCst />
+  <PowerControls />
+  <Converters />
+  <ListOgs />
+  <PG>2</PG>
+  <ListPG>
+    <string>1</string>
+    <string>2</string>
+    <string>3</string>
+    <string>4</string>
+    <string>5</string>
+    <string>6</string>
+    <string>8</string>
+    <string>9</string>
+    <string>10</string>
+    <string>1001</string>
+  </ListPG>
+  <GG>2</GG>
+  <ListGG>
+    <string>1</string>
+    <string>2</string>
+    <string>3</string>
+    <string>4</string>
+    <string>5</string>
+    <string>6</string>
+    <string>8</string>
+    <string>9</string>
+    <string>10</string>
+    <string>1001</string>
+  </ListGG>
+  <PAVR>2</PAVR>
+  <ListPA>
+    <string>1</string>
+    <string>2</string>
+    <string>3</string>
+    <string>4</string>
+    <string>5</string>
+    <string>6</string>
+    <string>8</string>
+    <string>9</string>
+    <string>10</string>
+    <string>1001</string>
+  </ListPA>
+  <GAVR>2</GAVR>
+  <ListGA>
+    <string>1</string>
+    <string>2</string>
+    <string>3</string>
+    <string>4</string>
+    <string>5</string>
+    <string>6</string>
+    <string>8</string>
+    <string>9</string>
+    <string>10</string>
+    <string>1001</string>
+  </ListGA>
+  <PGOV>2</PGOV>
+  <ListPV>
+    <string>1</string>
+    <string>2</string>
+    <string>3</string>
+    <string>4</string>
+    <string>5</string>
+    <string>6</string>
+    <string>8</string>
+    <string>9</string>
+    <string>10</string>
+    <string>1001</string>
+  </ListPV>
+  <GGOV>2</GGOV>
+  <ListGV>
+    <string>1</string>
+    <string>2</string>
+    <string>3</string>
+    <string>4</string>
+    <string>5</string>
+    <string>6</string>
+    <string>8</string>
+    <string>9</string>
+    <string>10</string>
+    <string>1001</string>
+  </ListGV>
+  <PN>2</PN>
+  <ListPN>
+    <string>1</string>
+    <string>2</string>
+    <string>3</string>
+    <string>4</string>
+    <string>5</string>
+    <string>6</string>
+    <string>8</string>
+    <string>9</string>
+    <string>10</string>
+    <string>11</string>
+    <string>12</string>
+    <string>13</string>
+    <string>14</string>
+    <string>15</string>
+    <string>16</string>
+    <string>17</string>
+    <string>18</string>
+    <string>19</string>
+    <string>20</string>
+    <string>21</string>
+    <string>22</string>
+    <string>23</string>
+    <string>24</string>
+    <string>25</string>
+    <string>26</string>
+    <string>27</string>
+    <string>28</string>
+    <string>29</string>
+    <string>30</string>
+    <string>31</string>
+    <string>32</string>
+    <string>33</string>
+    <string>34</string>
+    <string>35</string>
+    <string>36</string>
+    <string>37</string>
+    <string>38</string>
+    <string>39</string>
+    <string>40</string>
+    <string>41</string>
+    <string>42</string>
+    <string>43</string>
+    <string>44</string>
+    <string>45</string>
+    <string>46</string>
+    <string>47</string>
+    <string>101</string>
+    <string>102</string>
+    <string>103</string>
+    <string>1001</string>
+  </ListPN>
+  <GN>2</GN>
+  <ListGN>
+    <string>1</string>
+    <string>2</string>
+    <string>3</string>
+    <string>4</string>
+    <string>5</string>
+    <string>6</string>
+    <string>8</string>
+    <string>9</string>
+    <string>10</string>
+    <string>11</string>
+    <string>12</string>
+    <string>13</string>
+    <string>14</string>
+    <string>15</string>
+    <string>16</string>
+    <string>17</string>
+    <string>18</string>
+    <string>19</string>
+    <string>20</string>
+    <string>21</string>
+    <string>22</string>
+    <string>23</string>
+    <string>24</string>
+    <string>25</string>
+    <string>26</string>
+    <string>27</string>
+    <string>28</string>
+    <string>29</string>
+    <string>30</string>
+    <string>31</string>
+    <string>32</string>
+    <string>33</string>
+    <string>34</string>
+    <string>35</string>
+    <string>36</string>
+    <string>37</string>
+    <string>38</string>
+    <string>39</string>
+    <string>40</string>
+    <string>41</string>
+    <string>42</string>
+    <string>43</string>
+    <string>44</string>
+    <string>45</string>
+    <string>46</string>
+    <string>47</string>
+    <string>101</string>
+    <string>102</string>
+    <string>103</string>
+    <string>1001</string>
+  </ListGN>
+  <PB>2</PB>
+  <ListPB>
+    <string>1</string>
+    <string>2</string>
+    <string>3</string>
+    <string>4</string>
+    <string>5</string>
+    <string>6</string>
+    <string>7</string>
+    <string>8</string>
+    <string>9</string>
+    <string>10</string>
+    <string>11</string>
+    <string>12</string>
+    <string>13</string>
+    <string>14</string>
+    <string>15</string>
+    <string>16</string>
+    <string>17</string>
+    <string>18</string>
+    <string>19</string>
+    <string>20</string>
+    <string>21</string>
+    <string>22</string>
+    <string>23</string>
+    <string>24</string>
+    <string>25</string>
+    <string>26</string>
+    <string>27</string>
+    <string>28</string>
+    <string>29</string>
+    <string>30</string>
+    <string>31</string>
+    <string>32</string>
+    <string>33</string>
+    <string>34</string>
+    <string>35</string>
+    <string>36</string>
+    <string>37</string>
+    <string>38</string>
+    <string>39</string>
+    <string>40</string>
+    <string>41</string>
+    <string>42</string>
+    <string>43</string>
+    <string>44</string>
+    <string>45</string>
+    <string>46</string>
+    <string>47</string>
+    <string>48</string>
+    <string>49</string>
+    <string>50</string>
+    <string>51</string>
+    <string>52</string>
+    <string>53</string>
+    <string>54</string>
+    <string>55</string>
+    <string>56</string>
+    <string>117</string>
+    <string>118</string>
+    <string>120</string>
+    <string>123</string>
+    <string>124</string>
+    <string>126</string>
+    <string>135</string>
+    <string>153</string>
+  </ListPB>
+  <GB>2</GB>
+  <ListGB>
+    <string>1</string>
+    <string>2</string>
+    <string>3</string>
+    <string>4</string>
+    <string>5</string>
+    <string>6</string>
+    <string>7</string>
+    <string>8</string>
+    <string>9</string>
+    <string>10</string>
+    <string>11</string>
+    <string>12</string>
+    <string>13</string>
+    <string>14</string>
+    <string>15</string>
+    <string>16</string>
+    <string>17</string>
+    <string>18</string>
+    <string>19</string>
+    <string>20</string>
+    <string>21</string>
+    <string>22</string>
+    <string>23</string>
+    <string>24</string>
+    <string>25</string>
+    <string>26</string>
+    <string>27</string>
+    <string>28</string>
+    <string>29</string>
+    <string>30</string>
+    <string>31</string>
+    <string>32</string>
+    <string>33</string>
+    <string>34</string>
+    <string>35</string>
+    <string>36</string>
+    <string>37</string>
+    <string>38</string>
+    <string>39</string>
+    <string>40</string>
+    <string>41</string>
+    <string>42</string>
+    <string>43</string>
+    <string>44</string>
+    <string>45</string>
+    <string>46</string>
+    <string>47</string>
+    <string>48</string>
+    <string>49</string>
+    <string>50</string>
+    <string>51</string>
+    <string>52</string>
+    <string>53</string>
+    <string>54</string>
+    <string>55</string>
+    <string>56</string>
+    <string>117</string>
+    <string>118</string>
+    <string>120</string>
+    <string>123</string>
+    <string>124</string>
+    <string>126</string>
+    <string>135</string>
+    <string>153</string>
+  </ListGB>
+  <PIM>1</PIM>
+  <ListPIM />
+  <BOda>false</BOda>
+  <BOdea>false</BOdea>
+  <BOsa>false</BOsa>
+  <BOu>false</BOu>
+  <BOua>false</BOua>
+  <BOuas>false</BOuas>
+  <BOuf>false</BOuf>
+  <BOgd>false</BOgd>
+  <Ogd />
+  <ListOgd />
+  <Fout>10</Fout>
+  <BZm>false</BZm>
+  <Zout>10</Zout>
+  <NSection>3</NSection>
+  <Yreport>
+    <List />
+  </Yreport>
+  <Qdc>
+    <List />
+  </Qdc>
+  <BRPrintCntl>false</BRPrintCntl>
+  <PowerControlsOutPutDatasList />
+  <BDcPrintCntl>false</BDcPrintCntl>
+  <DcOutPutDatasList />
+  <BFr>false</BFr>
+  <Frs>
+    <List />
+  </Frs>
+  <BSor>false</BSor>
+  <Sors>
+    <List />
+    <Pu>true</Pu>
+  </Sors>
+  <CardD />
+  <CardGCHK />
+  <CardGCON />
+  <CardGSAT />
+  <CardG />
+  <CardA />
+  <CardP />
+  <CardS />
+  <CardM />
+  <CardR />
+  <CardL />
+  <CardF />
+  <CardZ />
+  <Docyc>
+    <Name />
+    <List />
+    <ListL />
+  </Docyc>
+</DocY>
